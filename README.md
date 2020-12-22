@@ -14,7 +14,7 @@ Key features in deciding the price:
 
 We account for 90% of the variability in the data using the ensemble methods but still with a significant root-mean-squared-error. We end on the note that while the models do a great job of generalizing prices based on features, each listing is unique and it's impossible to capture what makes a traveller decide that a place is worth the money.
 
-These findings are posted on both [Kaggle](https://www.kaggle.com/ryanfox212/how-much-should-you-price-your-boston-airbnb) in a kernel and on my website at [rfoxdata.co.uk]()
+These findings are posted on both [Kaggle](https://www.kaggle.com/ryanfox212/how-much-should-you-price-your-boston-airbnb) in a kernel and on my website at [rfoxdata.co.uk](https://rfoxdata.co.uk/general/python/2020/12/22/what-price-to-charge-for-your-airbnb.html)
 
 ## Running the notebook
 

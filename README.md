@@ -5,6 +5,7 @@
 - [Installation](#installation)
 - [Project Motivation](#project-motivation)
 - [Results](#results)
+- [File Descriptions](#file-descriptions)
 - [Acknowledgements](#acknowledgements)
 
 ## Installation
